@@ -1,5 +1,3 @@
-Absolutely — here’s your recruiter-facing **README** in clean, polished GitHub style, with **no mention of SQLite or platform-specific setup**, and written in plain, professional language ready for copy-pasting:
-
 ---
 
 # 🧠 Sales Data Warehouse Analytics
@@ -86,4 +84,3 @@ The **product report** tracks performance across product lines to identify top a
 
 ---
 
-Let me know if you’d like a short project summary or tagline to add at the top of your GitHub repo or LinkedIn post!
